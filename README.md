@@ -1,4 +1,4 @@
-# Binder Conda Environment (sample repository)
+# Binder conda-based environment (sample repository)
 
 You can interact with all notebooks online using **Binder:**
 
