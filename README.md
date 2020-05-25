@@ -1,4 +1,6 @@
-# Binder conda-based environment (sample repository)
+# Binder conda-based environment
+
+A Binder-compatible repo with an environment.yml file.
 
 You can interact with all notebooks online using **Binder:**
 
